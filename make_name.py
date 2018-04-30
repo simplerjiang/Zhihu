@@ -1,5 +1,9 @@
 #coding:utf-8
-
+'''
+将注册后的手机号保存至Excel中，原本是想着不需要安装数据库为最方便方法
+但是Excel在处理多线程打开一个文件的时候会出现问题，并且会出现关闭Excel主程序无法的问题，没有解决。
+其他封装检查过并没有Bug
+'''
 from random import choice
 import os
 import xlwings

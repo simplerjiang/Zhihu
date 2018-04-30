@@ -1,3 +1,7 @@
+'''
+将每个账号的登陆后cookie以json形式保存到文件中
+'''
+
 import json
 import os
 

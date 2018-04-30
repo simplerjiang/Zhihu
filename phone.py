@@ -1,3 +1,8 @@
+'''
+这里是用收码平台的API,我用的是http://www.51ym.me 的API
+如果需要使用，请自行更改
+'''
+
 import requests
 import time
 import re

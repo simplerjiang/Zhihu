@@ -1,3 +1,8 @@
+'''
+前期进行试验用的，未维护
+'''
+
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time

@@ -1,3 +1,8 @@
+'''
+注册
+'''
+
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
@@ -5,6 +10,7 @@ import random
 from make_name import *
 from phone import *
 from login import *
+
 
 def reg(times):
     excel = Excel()

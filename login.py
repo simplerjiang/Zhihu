@@ -1,3 +1,8 @@
+'''
+登陆类
+已经进行了单独封装
+'''
+
 from make_name import *
 from selenium import webdriver
 import time
