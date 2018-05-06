@@ -29,4 +29,5 @@ This script only for Chinese Website "Zhihu.com", so I will not translate the RE
 
 ---
 希望如果有人愿意用，请帮忙更新并Pull Request，我会及时查看，当然我写的乱七八糟跟坨屎一样。但请遵守GPLv3谢谢
- 
+
+cookie文件夹中有大概几十个号，喜欢的话可以拿去用。
