@@ -10,6 +10,7 @@ This script only for Chinese Website "Zhihu.com", so I will not translate the RE
  由于本脚本使用的是Selenium，所以在某些特定操作中，我使用了XPath定位，XPath定位会因为网站修改而失效，所以请自行更新，如果需要使用的话。
  其余函数或方法，例如保存Cookie的函数`dump.py`，Excel保存文件的`make_name.py`，这些都是可以直接复用的。
 
+**警告** 禁止将此代码用于非法用途！
 ---
 
 ### 知乎策略
